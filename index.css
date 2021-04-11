@@ -320,7 +320,7 @@ button{
     display: flex;
     flex-direction: row;
 }
-.flexitems{
+form{
     margin-right: 65px;
 }
 .biggy{
